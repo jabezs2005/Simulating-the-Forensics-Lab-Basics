@@ -69,10 +69,8 @@
 ---
 
 ### **Virtual Machine (Kali Linux)**
+![Kali Linux Desktop](https://github.com/user-attachments/assets/8daf9e97-5458-4a12-b3c8-be9f6a7ef043)
 
-![](./images/Kali.png)
-
-![](./images/kali1.png)
 
 ---
 
@@ -86,7 +84,8 @@
 
 ![](./images/s1.png)
 
-![](./images/s2.png)
+![Screenshot 2025-03-22 103326](https://github.com/user-attachments/assets/01d62a9d-cd3d-46bf-8283-1262ea3258db)
+
 
 ---
 
